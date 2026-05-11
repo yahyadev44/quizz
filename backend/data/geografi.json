@@ -1,0 +1,11 @@
+[
+  {
+    "question": "Gunung tertinggi di Indonesia adalah?",
+    "correct_answer": "Puncak Jaya",
+    "incorrect_answers": [
+      "Semeru",
+      "Kerinci",
+      "Rinjani"
+    ]
+  }
+]

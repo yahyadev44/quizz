@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Siapa presiden pertama Indonesia?",
+    "correct_answer": "Ir. Soekarno",
+    "incorrect_answers": [
+      "Soeharto",
+      "BJ Habibie",
+      "Megawati"
+    ]
+  },
+  {
+    "question": "Ibukota Provinsi Jawa Barat adalah?",
+    "correct_answer": "Bandung",
+    "incorrect_answers": [
+      "Bekasi",
+      "Bogor",
+      "Cirebon"
+    ]
+  },
+  {
+    "question": "Tanggal kemerdekaan Indonesia adalah?",
+    "correct_answer": "17 Agustus 1945",
+    "incorrect_answers": [
+      "1 Juni 1945",
+      "20 Mei 1945",
+      "18 Agustus 1945"
+    ]
+  },
+  {
+    "question": "Lagu Indonesia Raya diciptakan oleh?",
+    "correct_answer": "W.R. Supratman",
+    "incorrect_answers": [
+      "Ismail Marzuki",
+      "Chairil Anwar",
+      "Iwan Fals"
+    ]
+  },
+  {
+    "question": "Lambang negara Indonesia adalah?",
+    "correct_answer": "Garuda Pancasila",
+    "incorrect_answers": [
+      "Harimau",
+      "Komodo",
+      "Burung Elang"
+    ]
+  }
+]

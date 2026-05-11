@@ -1,0 +1,20 @@
+[
+  {
+    "question": "Siapa presiden pertama Indonesia?",
+    "correct_answer": "Ir. Soekarno",
+    "incorrect_answers": [
+      "Soeharto",
+      "BJ Habibie",
+      "Megawati"
+    ]
+  },
+  {
+    "question": "Lambang negara Indonesia adalah?",
+    "correct_answer": "Garuda Pancasila",
+    "incorrect_answers": [
+      "Harimau",
+      "Komodo",
+      "Burung Elang"
+    ]
+  }
+]

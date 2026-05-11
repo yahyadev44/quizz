@@ -1,0 +1,11 @@
+[
+  {
+    "question": "Pancasila memiliki berapa sila?",
+    "correct_answer": "5",
+    "incorrect_answers": [
+      "4",
+      "6",
+      "7"
+    ]
+  }
+]
